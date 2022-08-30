@@ -1,0 +1,13 @@
+README.md
+setup.py
+dmp/__init__.py
+dmp/cs.py
+dmp/derivative_matrices.py
+dmp/dmp_cartesian.py
+dmp/exponential_integration.py
+dmp/rotation_matrix.py
+dmp.egg-info/PKG-INFO
+dmp.egg-info/SOURCES.txt
+dmp.egg-info/dependency_links.txt
+dmp.egg-info/requires.txt
+dmp.egg-info/top_level.txt
